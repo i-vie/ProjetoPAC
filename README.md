@@ -36,6 +36,7 @@ Ficheiros:
 
 Apresentação do projecto
 pasta comprimida src da aplicação
+pasta comprida do website
 pasta comprimida da aplicação (sem build pelas restrições de tamanho)
 Relatório
 Revisão da aplicação desktop
