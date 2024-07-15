@@ -3,6 +3,10 @@ Projeto da Disciplina de PAC
 
 Este repositório irá conter todos os ficheiros relevantes para a disciplina de Projeto da disciplina de Programação de Aplicação do Lado do Cliente.
 
+Autores do projeto:
+Iolanda Vieira nº25248
+André Umba nº24774
+
 Gourmet Manager
 
 A aplicação desenvolvida pelo nosso grupo é uma aplicação de gestão de pedidos, ementa
