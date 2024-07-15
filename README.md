@@ -27,3 +27,16 @@ Funcionalidades implementadas:
 Funcionalidades por implementar:
 1. Criação e gestão de reservas
 2. Relatórios diários com estatísticas sobre pedidos, reservas e faturação
+
+Ficheiros:
+
+Apresentação do projecto
+pasta comprimida src da aplicação
+pasta comprimida da aplicação (sem build pelas restrições de tamanho)
+Relatório
+Revisão da aplicação desktop
+Screencast
+Vídeo da tarefa "Alterar pedido"
+Análise de tarefas e cenários de utilização entregues (não são os que constam no relatório, porque incluiam funcionalidades que não foram implementadas)
+
+
