@@ -44,4 +44,31 @@ Screencast
 Vídeo da tarefa "Alterar pedido"
 Análise de tarefas e cenários de utilização entregues (não são os que constam no relatório, porque incluiam funcionalidades que não foram implementadas)
 
+------------------------------------
+
+Alterações feitas em recurso
+
+Funcionalidades
+
+1. Criação de novas reservas
+2. Alteração de reservas, alterando o número de pessoas, a mesa atribuída, a data e
+hora de reserva ou comentários
+3. Cancelamento de reservas com data futura
+4. Consulta de reservas e dos respetivos detalhes
+5. Exibição de estatísticas sobre novas reservas ou reservas para o próprio dia no dash-
+board
+6. Seleção de idioma, entre Português e Inglês (no ecrã de Login e nas Definições)
+7. Seleção de modo claro ou escuro pelo utilizador, na barra superior da aplicação
+
+Base de dados
+
+1. Nova entidade Reservation
+2. Atualização das chaves estrangeiras
+
+Testes com utilizadores
+
+1. Novo questionário com perguntas quantitativas para uma melhor análise
+
+Correção de erros identificados
+Capítulo "Outros aspetos" adicionado ao relatório
 
