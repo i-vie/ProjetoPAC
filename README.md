@@ -68,6 +68,8 @@ Base de dados
 Testes com utilizadores
 
 1. Novo questionário com perguntas quantitativas para uma melhor análise
+2. Registados os tempos de cada tarefa
+3. Análise estatística dos resultados obtidos
 
 Correção de erros identificados
 Capítulo "Outros aspetos" adicionado ao relatório
